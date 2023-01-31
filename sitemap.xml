@@ -2,10 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ckddnjs1008.github.io/categories/</loc>
+    <loc>http://ckddnjs1008.github.io/categories/</loc>
+    <lastmod>2023-01-31T14:51:17+09:00</lastmod>
   </url><url>
-    <loc>https://ckddnjs1008.github.io/</loc>
+    <loc>http://ckddnjs1008.github.io/</loc>
+    <lastmod>2023-01-31T14:51:17+09:00</lastmod>
   </url><url>
-    <loc>https://ckddnjs1008.github.io/tags/</loc>
+    <loc>http://ckddnjs1008.github.io/ports/unity/devlirpg1/</loc>
+    <lastmod>2023-01-31T14:51:17+09:00</lastmod>
+  </url><url>
+    <loc>http://ckddnjs1008.github.io/ports/</loc>
+    <lastmod>2023-01-31T14:51:17+09:00</lastmod>
+  </url><url>
+    <loc>http://ckddnjs1008.github.io/categories/unity/</loc>
+    <lastmod>2023-01-31T14:51:17+09:00</lastmod>
+  </url><url>
+    <loc>http://ckddnjs1008.github.io/tags/</loc>
   </url>
 </urlset>
